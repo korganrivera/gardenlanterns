@@ -186,5 +186,3 @@ korgan
 GitHub: https://github.com/korganrivera
 
 ---
-
-This project is evolutionary design in code form: let randomness breed geometry into order.
