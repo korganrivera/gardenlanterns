@@ -5,6 +5,7 @@ The program searches for lantern positions that maximize *minimum illuminance (l
 
 This is a simulation-driven design tool: you define the garden shape in coordinates, tune physical parameters (lumens, height, grid resolution), and let evolution grind toward a balanced lighting layout.
 
+![Example output](heatmaps/heatmap_05_lanterns.png)
 ---
 
 ## Overview
