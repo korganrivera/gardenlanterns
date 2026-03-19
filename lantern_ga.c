@@ -44,10 +44,10 @@ typedef struct {
 
 // polygon: user-provided quadrilateral (feet)
 double verts_ft[4][2] = {
-    {56.509,   6.20},
-    {156.641, 95.380},
-    {125.857,170.050},
-    {56.931, 162.723}
+    { 0.000,   0.000},
+    {96.899,  80.539},
+    {67.374, 162.112},
+    { 0.000, 156.833}
 };
 
 // conversions and global derived variables
