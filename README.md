@@ -175,12 +175,6 @@ Suggested expansions:
 
 ---
 
-## License
-
-Choose and include a license file (MIT, Apache-2.0, GPL, etc.)
-
----
-
 ## Author
 
 korgan  
